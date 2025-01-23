@@ -1,5 +1,3 @@
-# 💫 About Me:
-I am currently working on MERN with Gen AI<br>
 
 
 ## 🌐 Socials:
