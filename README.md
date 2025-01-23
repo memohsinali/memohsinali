@@ -1,3 +1,5 @@
+# 💫 About Me:
+👯 I’m currently working on:<br>Building innovative projects, exploring new ideas, and sharpening my coding skills.<br><br>🤝 I’m looking to collaborate on:<br>Exciting software development projects, particularly in MERN stack<br><br>🌱 I’m currently learning:<br>Generative AI<br><br>💬 Ask me about:<br>Fitness<br><br>⚡ Fun fact:<br>A sport lover person somehow jumped into CS
 
 
 ## 🌐 Socials:
